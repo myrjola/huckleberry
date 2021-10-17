@@ -10,3 +10,19 @@ body {
 }
 
 /* Add styles here! */
+
+h1 {
+  font-size: 2rem;
+}
+
+h2 {
+  font-size: 1.5rem
+}
+
+.intro-chunk {
+  font-size: 1.25rem;
+}
+
+main {
+  font-size: 1rem;
+}
