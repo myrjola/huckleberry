@@ -23,6 +23,26 @@ h2 {
   font-size: 1.25rem;
 }
 
+.intro-chunk strong {
+  color: hsl(160deg, 100%, 30%);
+}
+
 main {
   font-size: 1rem;
+  background-color: hsl(0deg, 0%, 60%);
+  padding-top: 32px
+}
+
+.indented-heading {
+  background-color: hsl(45deg, 100%, 50%);
+  border-bottom: hsl(45deg, 100%, 40%) solid 8px;
+}
+
+.card {
+  background-color: hsl(0deg, 0%, 100%);
+}
+
+header {
+  border-bottom: hsl(0deg, 0%, 40%) solid 8px;
+
 }
